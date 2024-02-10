@@ -27,6 +27,9 @@ https://github.com/Luanpd7/Flutter-expenses.git
 cd Flutter-expenses
  ```
 
+### Para Visualizar
+Para visualizar a aplicação eu postei no Linkedln : https://www.linkedin.com/feed/update/urn:li:activity:7161879699604791296/
+
 3.Execute o aplicativo:
 
 ```
