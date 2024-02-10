@@ -6,6 +6,6 @@
 
 ## Funcionalidades
 
-- **Adicionar despesas:** Os usuários podem adicionar novas despesas, incluindo uma descrição, valor e data.
+- **Adicionar despesas:** Os usuários podem adicionar novas despesas, incluindo um titulo, valor e data.
 - **Excluir despesas:** Os usuários podem remover despesas existentes.
-- **Visualização de média de gastos:** Um gráfico é exibido na tela principal mostrando a média dos gastos do usuário ao longo do tempo.
+- **Visualização de média de gastos:** Um gráfico acima é exibido na tela principal mostrando a média dos gastos do usuário ao longo do tempo.
