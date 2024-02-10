@@ -34,4 +34,4 @@ Flutter run
 ```
 
 ### Para Visualizar
-Para visualizar a aplicação eu postei no Linkedln : https://www.linkedin.com/feed/update/urn:li:activity:7161879699604791296/
+Eu postei a aplicação na minha rede do Linkedln : https://www.linkedin.com/feed/update/urn:li:activity:7161879699604791296/
