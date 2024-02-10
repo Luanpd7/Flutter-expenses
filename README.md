@@ -18,6 +18,7 @@ Certifique-se de ter o Flutter instalado em sua máquina. Você pode seguir as i
 1.Clone este repositório para sua máquina local:
 
 2.Navegue até o diretório do projeto:
+``` https://github.com/Luanpd7/Flutter-expenses.git ```
 
 3.Execute o aplicativo:
 
