@@ -21,7 +21,6 @@ Certifique-se de ter o Flutter instalado em sua máquina. Você pode seguir as i
 
 3.Execute o aplicativo:
 
-```javascript
-var exemplo = "Isso é um exemplo de código JavaScript";
-console.log(exemplo);
+```
+Flutter run
 ```
