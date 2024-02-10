@@ -1,16 +1,11 @@
-# expenses
+# Despesas Pessoais
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+**[Bem vindo] ao projeto Despesas Pessoais,** este projeto foi desenvolvido para cria um app para despesas pessoais e organização financeira 
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adicionar despesas: Os usuários podem adicionar novas despesas, incluindo uma descrição, valor e data.
+Excluir despesas: Os usuários podem remover despesas existentes.
+Visualização de média de gastos: Um gráfico é exibido na tela principal mostrando a média dos gastos do usuário ao longo do tempo.
