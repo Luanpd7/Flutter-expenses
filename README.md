@@ -2,7 +2,7 @@
 
 ## Descrição
 
-**[Bem vindo] ao projeto Despesas Pessoais,** este projeto foi desenvolvido em flutter para criação de um app  para despesas pessoais e organização financeira
+**[Bem vindo] ao projeto Despesas Pessoais,** este projeto foi desenvolvido em Flutter para criação de um app  para despesas pessoais e organização financeira
 
 ## Funcionalidades
 
@@ -33,5 +33,5 @@ cd Flutter-expenses
 Flutter run
 ```
 
-### Para Visualizar
+## Para Visualizar
 Eu postei a aplicação na minha rede do Linkedln : https://www.linkedin.com/feed/update/urn:li:activity:7161879699604791296/
